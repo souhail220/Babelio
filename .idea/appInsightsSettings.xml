@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.mim.babelio" />
+                  <option name="mobileSdkAppId" value="1:593568484727:android:53a11e304342fa5dc82572" />
+                  <option name="projectId" value="beblio-3d183" />
+                  <option name="projectNumber" value="593568484727" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />

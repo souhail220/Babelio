@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "593568484727",
+    "project_id": "beblio-3d183",
+    "storage_bucket": "beblio-3d183.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:593568484727:android:53a11e304342fa5dc82572",
+        "android_client_info": {
+          "package_name": "com.mim.babelio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "593568484727-beetbfe2nvusajuak74vn75aqrq6vhlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpsXmFupQMNg5WjNZcI9y3NxwCbpT5k5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "593568484727-beetbfe2nvusajuak74vn75aqrq6vhlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
